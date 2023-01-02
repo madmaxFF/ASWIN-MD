@@ -1,7 +1,7 @@
   <p align="center">  
   <a href="https://secktoruserbot.onrender.com/">
-    <img alt="secktor docs" height="300" src="https://secktoruserbot.onrender.com//main.jpg">
-    <h1 align="center">Secktor MD Whatsapp bot</h1>
+    <img alt="secktor docs" height="300" src="https://i.imgur.com/FhcCl8B.jpeg">
+    <h1 align="center">ASWIN MD Whatsapp bot</h1>
   </a>
 </p>
    
