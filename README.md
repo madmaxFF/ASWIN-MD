@@ -23,7 +23,7 @@
 ## Deployment Methods
 ---
 1. ***Get [SESSION-ID](https://secktoruserbot.onrender.com/) by scanning QR code. `Whatapp>Three dots>Linked Devices`***
-2.  ***Get a Mongodb uri from [Mongodb](https://www.mongodb.com)
+2.  ***Get a Mongodb uri from [Mongodb](https://www.mongodb.com)***
 3.  ***Click [FORK](https://github.com/Sparkymon777/ASWIN-MD/fork)***
 
 4. ***[Deploy on Koyeb](https://secktoruserbot.onrender.com/koyeb)***
