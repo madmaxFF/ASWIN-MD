@@ -28,7 +28,7 @@
 
 4. ***[Deploy on Koyeb](https://secktoruserbot.onrender.com/koyeb)***
 
-5.  ***[Deploy on Railway](https://secktoruserbot.onrender.com/railway)***
+5.  ***[Deploy on Railway](https://railway.app/new/template/9Mj_YE)***
 6. ***[Deploy on MOGENIOUS](https://github.com/SamPandey001/Secktor-Md/wiki/Deploy-on-MOGENIOUS)***
 
 - Star ⭐ repo Bro.
